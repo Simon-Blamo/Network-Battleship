@@ -16,7 +16,7 @@ This project is a networked, multiplayer Battleship game implemented in C++. It 
 
 1. Clone the repository:
 
-   `git clone https://github.com/TCNJ-degoodj/battleship-Simon-Blamo.git`
+   `git clone https://github.com/Simon-Blamo/Network-Battleship.git`
 2. Navigate to the Battleship directory:
 
    `cd battleship-Simon-Blamo`
